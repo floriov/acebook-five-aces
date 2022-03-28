@@ -1,6 +1,6 @@
 # Five Aces 
 
-Five Aces is a clone of Facebook. It lets users post, like and comment. 
+Five Aces is a social networking app that works similarly to Facebook.
 
 ## Demo
 
